@@ -28,13 +28,3 @@ Since integration tests combine different parts of an application, they are more
 They are more complicated to setup, maintain, time intensive to run, and difficult to troubleshoot.
 Integration tests that are written poorly can end so expensive that there is a natural tendency to not write them at all.
 However, when they are well written, with clear purpose, they are a powerful tool to confirm the orchestration of all the units of code you have assembled are performing as expected.
-
-## Analogies to Real World Scenarios(?)
-### Commercial Foodservice
-The core of running a successful restaurant endeavor is maximising each part of the profit and loss statement.
-All parts of the expense reports are constantly being evaluated to see if the value they provide is worth the cost they incur.
-Income streams are constantly being monitored to make sure that they provide enough to cover the expenses and leave a profit for the ownership.
-
-#### Unit Tests are the cooks and ingredients.
-
-#### 
